@@ -1,0 +1,17 @@
+C:\Users\João\source\repos\Triangulo\Triangulo\obj\Debug\net6.0-windows\Triangulo.csproj.AssemblyReference.cache
+C:\Users\João\source\repos\Triangulo\Triangulo\obj\Debug\net6.0-windows\Triangulo.Form1.resources
+C:\Users\João\source\repos\Triangulo\Triangulo\obj\Debug\net6.0-windows\Triangulo.csproj.GenerateResource.cache
+C:\Users\João\source\repos\Triangulo\Triangulo\obj\Debug\net6.0-windows\Triangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\João\source\repos\Triangulo\Triangulo\obj\Debug\net6.0-windows\Triangulo.AssemblyInfoInputs.cache
+C:\Users\João\source\repos\Triangulo\Triangulo\obj\Debug\net6.0-windows\Triangulo.AssemblyInfo.cs
+C:\Users\João\source\repos\Triangulo\Triangulo\obj\Debug\net6.0-windows\Triangulo.csproj.CoreCompileInputs.cache
+C:\Users\João\source\repos\Triangulo\Triangulo\bin\Debug\net6.0-windows\Triangulo.exe
+C:\Users\João\source\repos\Triangulo\Triangulo\bin\Debug\net6.0-windows\Triangulo.deps.json
+C:\Users\João\source\repos\Triangulo\Triangulo\bin\Debug\net6.0-windows\Triangulo.runtimeconfig.json
+C:\Users\João\source\repos\Triangulo\Triangulo\bin\Debug\net6.0-windows\Triangulo.dll
+C:\Users\João\source\repos\Triangulo\Triangulo\bin\Debug\net6.0-windows\Triangulo.pdb
+C:\Users\João\source\repos\Triangulo\Triangulo\obj\Debug\net6.0-windows\Triangulo.dll
+C:\Users\João\source\repos\Triangulo\Triangulo\obj\Debug\net6.0-windows\refint\Triangulo.dll
+C:\Users\João\source\repos\Triangulo\Triangulo\obj\Debug\net6.0-windows\Triangulo.pdb
+C:\Users\João\source\repos\Triangulo\Triangulo\obj\Debug\net6.0-windows\Triangulo.genruntimeconfig.cache
+C:\Users\João\source\repos\Triangulo\Triangulo\obj\Debug\net6.0-windows\ref\Triangulo.dll
